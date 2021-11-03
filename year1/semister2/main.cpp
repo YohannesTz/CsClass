@@ -1,48 +1,99 @@
-1, int cnt inch= 0;
-   int cnt feet=0;
-   
-2, double distance = 1.5;
+#include <iostream>
+using namespace std;
 
-3,    int n1, n2, sum;
+/*int main() {
 
-4,    sum = n1 + n2;
+    cout << "Abenezer \n";
+    cout << "Rahel \n";
+    cout << "Yohannes \n";
+    cout << "Aman \n";
+    cout << "Simbo \n";
+    cout << "Elsa \n";
+    return 0;
+}*/
 
-5,    double length;
-    length = length + 8.33;
+/*int main() {
+    cout << "*\n";
+    cout << "* *\n";
+    cout << "* * *\n";
+    cout << "* * * *\n";
+    cout << "* * * * *\n";
+}*/
 
-6,    int product, n;
-    product = product * n;
+/*int main() {
+    cout << "   @   \n";
+    cout << "  @ @ @\n";
+    cout << "@ @ @ @ @\n";
+    cout << "  @ @ @ \n";
+    cout << "    @\n";
+}*/
 
-7,    double speed, parRate, payRateHourly;
-    int highScore;
+/*int main(){
+    int x;
+    cout << "Enter a number: \n";
+    cin >> x;
+    if (x % 2 == 0)
+    {
+        cout << "Even";
+    } else {
+        cout << "Odd";
+    }
+    return 0;
+}*/
 
-8,    cout << "The answer to the question of Life, \n";
-    cout << "\n";
-    cout << "the universe and everything is 42.";
+/*
+int main() {
+    float pi = 3.14;
+    float r, c;
+    float rsquare;
+    cout << "Enter the radius of the circle: \n";
+    cin >> r;
+    rsquare = r * r;
+    c = 2 * (pi * rsquare);
+    cout << c;
+    return 0;
+}
+*/
 
-9,    int _number;
-    cout << "Please input a whole number: \n";
-    cin >> _number;
+int main(){
+    int x, y, z;
+    cout << "Enter the first number to add: \n";
+    cin >> x;
+    cout << "Enter the second number to add: \n";
+    cin >> y;
+    z = x + y;
+    cout << x << " + " << y << " = " << z;
+}
 
-10,    cout << "Hello World";
+/*int main() {
+    int x, y, z;
+    cout << "Enter the operation you want to do: ";
+    cout << "1. Subtract ";
+    cout << "2. Multiply ";
+    cout << "3. Divide ";
+
+}*/
+
+/*int main() {
+    int number;
+    cout << "Enter a number to check: ";
+    cin >> number;
+    if (number % 2 == 0) {
+        cout << "The number is even";
+    } else {
+        cout << "The Number is odd";
+    }
+}*/
 
 
-11,    int whole_num_1, whole_num_2, thier_sum;
-    cout << "Please input two whole numbers to add:\n";
-    cin >> whole_num_1;
-    cin >> whole_num_2;
-    thier_sum = whole_num_1 + whole_num_2;
-    cout << thier_sum;
+/*
+int main() {
+    cout << "Hello \n";
+    cout << "World \n";
+    cout << "! \n";
+}*/
 
-12, 
-    double one = 1.000;
-    double two = 1.414;
-    double three = 1.732;
-    double four = 2.000;
-    double five = 2.236;
-    cout << "N\tSquare root";
-    count << "1\t" << one;
-    count << "2\t" << two;
-    count << "3\t" << three;
-    count << "4\t" << four;
-    count << "5\t" << five;
+/*
+int main() {
+    cout << "Hello World! \n";
+}*/
